@@ -5,5 +5,5 @@
 # Script follows here:
 
 echo "What is your name?"
-read Kesava
-echo "Hello, $Kesava"
+read Dhana
+echo "Hello, $Dhana"
