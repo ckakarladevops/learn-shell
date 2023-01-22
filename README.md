@@ -10,6 +10,6 @@ This is created for Shell scrpting
 4. Loops (L)
 5. Exit Status
 6. Inputs
-7. Outputs
+7. Quotes
 
 *********
