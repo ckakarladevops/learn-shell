@@ -14,6 +14,5 @@ ADD=$((2+3))
 echo ADD - $ADD
 
 ## variable from command line
-echo b $b
-
-echo c $c
+echo b=10 $b
+echo c=20 $c
