@@ -16,4 +16,3 @@ example() {
   echo "# - $#"
 }
 
-example
