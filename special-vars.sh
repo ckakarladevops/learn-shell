@@ -15,3 +15,5 @@ example() {
   echo "@ - $@"
   echo "# - $#"
 }
+
+example
