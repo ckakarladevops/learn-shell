@@ -16,3 +16,4 @@ example() {
   echo "# - $#"
 }
 
+example xyz 20
