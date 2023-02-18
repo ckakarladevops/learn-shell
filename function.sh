@@ -17,10 +17,8 @@ echo b - $b
 
 example1() {
   echo example1 - abc
-
-  exit
+  return 2
   echo example1 - xyz
-
 }
 
 example1
